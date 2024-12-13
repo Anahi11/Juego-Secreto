@@ -2,7 +2,7 @@
 
 let numeroSecreto = 0;
 let intentos = 1;
-let numeroMaximo = 10;
+let numeroMaximo = 100;
 
 //Lista donde se almacenan los numeros sorteados
 let listaNumerosSorteados = [];
